@@ -16,6 +16,8 @@ public class Student {
     private int id;
     private String DoB;
     
+    private int maxHrs;
+    
     public Student()
     {
         this.name = "Not Set";
